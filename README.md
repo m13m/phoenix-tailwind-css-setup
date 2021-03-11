@@ -1,4 +1,5 @@
-# Salah
+# Phoenix Tailwind CSS setup
+
 
 To start your Phoenix server:
 
